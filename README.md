@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahmoud Ramzy
 
-<!--
-**mahmoudramzy72/mahmoudramzy72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Web Developer** specialized in **.NET and Angular**. I enjoy building modern, efficient, and scalable web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+- 🌐 **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind, Angular, React  
+- 🛠 **Backend:** C#, OOP, .NET, Web API, MVC  
+- 🗄 **Database:** SQL Server  
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn:** [Mahmoud Ramzy](https://www.linkedin.com/in/mahmoud-ramzy99/)  
+- **Email:** [mahmoud.ramzy00@outlook.com](mailto:mahmoud.ramzy00@outlook.com)  
+
+---
+
+Feel free to check out my repositories and projects! 🚀  
