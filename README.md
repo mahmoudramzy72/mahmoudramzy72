@@ -6,10 +6,10 @@ I'm a Full Stack Web Developer with expertise in .NET and Angular, passionate ab
 
 ## 📈 My Focus Areas
 
-- **Software Engineering Best Practices: Writing clean, maintainable, and testable code.
-- **Database Optimization: Writing optimized queries and managing relational databases.
-- **Full-Stack Development: Building modern web applications with Angular & .NET.
-- **Backend Architecture: Designing secure, scalable, and efficient APIs.
+- Software Engineering Best Practices: Writing clean, maintainable, and testable code.
+- Database Optimization: Writing optimized queries and managing relational databases.
+- Full-Stack Development: Building modern web applications with Angular & .NET.
+- Backend Architecture: Designing secure, scalable, and efficient APIs.
 
 ---
 
